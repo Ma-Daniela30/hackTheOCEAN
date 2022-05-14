@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --experimental-bm-modules ./node-modules/jest/bin/jest.js"
   },
   "keywords": [],
   "author": "A.A.M., L.F.C., E.A.E., A.A.E. y M.D.E.",
