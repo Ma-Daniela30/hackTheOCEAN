@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node --experimental-bm-modules ./node-modules/jest/bin/jest.js"
+    "start": "node index.js",
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
   },
   "keywords": [],
   "author": "A.A.M., L.F.C., E.A.E., A.A.E. y M.D.E.",
