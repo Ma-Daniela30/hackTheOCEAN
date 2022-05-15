@@ -13,7 +13,7 @@ app.get('/quienes_somos',(req,res)=>{
 });
 
 app.get('/plasticos_mar',(req,res)=>{
-    res.sendFile(__dirname+"//views//plasticos_mar.html");
+    res.sendFile(__dirname+"//views//plasticos.html");
 });
 app.get('/que_hacemos',(req,res)=>{
     res.sendFile(__dirname+"//views//que_hacemos.html");
