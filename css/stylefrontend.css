@@ -1,0 +1,56 @@
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+    display: block !important;
+}
+
+.carousel-item>img {
+    max-height: 700px;
+    width: 100%;
+    position: relative;
+}
+
+img {
+    float: right;
+    max-height: 1100px;
+}
+
+.foto2 {
+    padding: 10px;
+    margin: 10px;
+
+    float: right;
+    width: 750px;
+}
+
+.card {
+    border-style: 5px solid black;
+    padding-bottom: 3%;
+}
+
+.row {
+    padding-bottom: 15%;
+}
+
+.body{
+    background-color: #B0E0E6;
+}
+
+.mapadiv{
+    width: 70%;
+    margin: auto;
+}
+.mapadiv path{
+fill:#EEE8AA ;
+stroke: black;
+stroke-width: 2px;
+}
+
+.mapadiv :hover{
+    fill: #CD853F;
+}
+.progress{
+    width: 50%;
+   left: 50%;
+
+}
