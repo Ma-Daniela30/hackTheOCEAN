@@ -32,7 +32,7 @@ img {
     padding-bottom: 15%;
 }
 
-.body{
+.bodymapa{
     background-color: #B0E0E6;
 }
 
@@ -53,4 +53,7 @@ stroke-width: 2px;
     width: 50%;
    left: 50%;
 
+}
+.titulo{
+    text-align:center;
 }
