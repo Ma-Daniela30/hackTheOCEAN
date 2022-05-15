@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playa Azul</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!--<link href="../css/estilo_playa.css"  rel="stylesheet" type="text/css">-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.min.js" integrity="sha512-6kvhZ/39gRVLmoM/6JxbbJVTYzL/gnbDVsHACLx/31IREU4l3sI7yeO0d4gw8xU5Mpmm/17LMaDHOCf+TvuC2Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+    <nav class="navbar navbar-light bg-light">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+            <img src="../img/logo.png" alt="" width="70" height="70">
+          </a>
+          
+          <nav class="nav p-3 justify-content-center">
+            <a href="./front end.html"> </a><button type="button" class="btn btn-light"> Inicio</button></a>
+            <a href="./que hacemos.html"> <button type="button" class="btn btn-light">¿Que hacemos?</button></a>
+            <a href="./plasticos.html"> </a><button type="button" class="btn btn-light">Plasticos en el mar</button></a>
+            <a href="./solicitud.html"> </a><button type="button" class="btn btn-light">Solicitud</button></a>
+        </div>
+      </nav>
+      <div class="wrapper">
+        <div class="card js">
+
+        </div>
+        <div class="card react">
+
+        </div>
+      </div>
+      <h1 class="text-center">Playa Azul</h1>
+
+    <div class="row">
+        <div class="col-md-1 col-sm-4"></div>
+        <div class="col-md-4 col-sm-4">
+            <div class="card">
+                <div class="card-body">
+                    <div class="card js">
+                        <div class="circle">
+                            <div class="bar" style="margin-left: 120px;"></div>
+                        </div>
+                        <div class="text-center">
+                            <h5 class="font-weight-bold">Contaminación de <br>Cigarrillos</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--<div class="card js">
+                <div class="circle">
+                    <div class="bar"></div>
+                    <div class="box"><span></span></div>
+                </div>
+                <div class="text">Contaminación de <br>Cigarrillos</div>
+            </div>-->
+        </div>
+        <div class="col-md-2 col-sm-4"></div>
+        <div class="col-md-4 col-sm-4">
+            <div class="card">
+                <div class="card-body">
+                    <div class="card react">
+                        <div class="text-center">
+                            <div class="circle">
+                                <div class="bar" style="margin-left: 120px;"></div>
+                            </div>
+                        </div>
+                       
+                        <div class="text-center">
+                            <h5 class="font-weight-bold">Contaminación de <br>Plásticos</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--
+            <div class="card react">
+                <div class="circle">
+                    <div class="bar"></div>
+                    <div class="box"><span></span></div>
+                </div>
+                <div class="text">Contaminación de <br>Plásticos</div>
+            </div>-->
+        </div>
+        <div class="col-md-1 col-sm-4"></div>
+        
+    </div>
+    <script>
+        let options={
+            startAngle:-1.55,
+            size:150,
+            value:0.85,
+            fill:{gradient:["#a445b2", "#fa4299"]}
+        }
+        $(".circle .bar").circleProgress(options).on("circle-animation-progress",
+        function(event, progress, stepValue){
+            $(this).parent().find("span").text(String(stepValue.toFixed(2).substr(2))+"%");
+        });
+        $(".js .bar").circleProgress({
+            value:0.85,
+        });
+        $(".js .bar").circleProgress({
+            value:0.35,
+        });
+    </script>
+</body>
+</html>
