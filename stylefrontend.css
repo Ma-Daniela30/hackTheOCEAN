@@ -32,3 +32,20 @@ img {
     padding-bottom: 15%;
 }
 
+.body{
+    background-color: #B0E0E6;
+}
+
+.mapadiv{
+    width: 70%;
+    margin: auto;
+}
+.mapadiv path{
+fill:#EEE8AA ;
+stroke: black;
+stroke-width: 2px;
+}
+
+.mapadiv :hover{
+    fill: #CD853F;
+}
