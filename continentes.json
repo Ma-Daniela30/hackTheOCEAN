@@ -1,0 +1,33 @@
+[
+{
+    "continente":"America",
+    "mar":{
+        "nombre":"Mar Argentino",
+        "tipo_plastico":{
+            "categoria":{
+                "bolsa_plastico":19.60,
+                "envoltorio_plastico":13.20,
+                "colillas_cigarro":19.60,
+                "otros":47.60
+            }
+        }
+    },
+    "porcentaje_total":5.75
+},
+{
+    "continente":"Asia",
+    "porcentaje_total":86.17
+},
+{
+    "continente":"Europa",
+    "porcentaje_total":0.28
+},
+{
+    "continente":"Oceania",
+    "porcentaje_total":0.02
+},
+{
+    "continente":"Africa",
+    "porcentaje_total":7.78
+}
+]
