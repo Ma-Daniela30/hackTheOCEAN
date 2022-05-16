@@ -96,10 +96,10 @@ Se realizo la investigacion a profundidad de los datos necesarios, que podran se
  # Desarrolladores ✒️
 _Menciona a todos aquellos que ayudaron a desarrollar el proyecto_
 
-* **Cajero Luis Felipe** - *Documentación* -[Luis Felipe Cajero](https://github.com/luizcajero)
-* **Espinosa Roy Angelica Ariadna** - *Documentación* - [AngelicaAERoy](https://github.com/AngelicaRoy)
-* **Marin Rodriguez Alexis Alberto** - *Documentación* - [alexMarinRodriguez](https://github.com/alexMarinRodriguez)
-* **Espinosa Roy Maria Daniela** - *Lider del proyecto y Documentación* - [Ma-Daniela30](https://github.com/Ma-Daniela30)
+* **Cajero Luis Felipe** - *FrontEnd* -[Luis Felipe Cajero](https://github.com/luizcajero)
+* **Espinosa Roy Angelica Ariadna** - *BackEnd* - [AngelicaAERoy](https://github.com/AngelicaRoy)
+* **Marin Rodriguez Alexis Alberto** - *FrontEnd* - [alexMarinRodriguez](https://github.com/alexMarinRodriguez)
+* **Espinosa Roy Maria Daniela** - *FrontEnd y BackEnd* - [Ma-Daniela30](https://github.com/Ma-Daniela30)
  
  
  
