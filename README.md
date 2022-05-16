@@ -83,7 +83,7 @@ Se realizo la investigacion a profundidad de los datos necesarios, que podran se
 - Ejecutamos el comando `node start`
 
 
-🚍 **Tecnologias utilizadas**
+# 🚍 **Tecnologias utilizadas**
 
 - HTML
 - CSS
