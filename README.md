@@ -25,6 +25,7 @@ node --version
 - EXPRESS
 - SQL
 - JSON
+- NODE
 
 📓 **Desarollo**
 
@@ -32,8 +33,8 @@ node --version
 
 📘 **Levantamiento de requerimentos**
 
-Se realizara la documentacion detalla de todos los requerimentos a ocupar dentro del proyecto, asi como los acuerdos entre el cliente y desarrollador(para este caso se a 
-tomado en cuenta los requisitos a la convocatoria de Hack the ocean)
+Se realizara la documentacion detalla de todos los requerimentos a ocupar dentro del proyecto, asi como los acuerdos entre el cliente y desarrollador(para este caso se a tomado en cuenta los requisitos a la convocatoria de Hack the ocean)
+[DOCUMENTACION](https://github.com/Ma-Daniela30/FrontEndHTO)
 
 -  2️⃣ Paso dos 
 
