@@ -6,7 +6,7 @@
 el usuario contara con la opcion de aportar y solicitar ayuda acerca de alguna zona que no sea visible dentro de los datos
 
 # Documentacion Front-End
-(Requerimientos,BuyerPersonal,PublicoObjetivoUXyUI)[https://github.com/Ma-Daniela30/FrontEndHTO]
+[Requerimientos,BuyerPersonal,PublicoObjetivoUXyUI](https://github.com/Ma-Daniela30/FrontEndHTO)
 
 💻 **Instalación de tu ambiente de desarrollo**
 
