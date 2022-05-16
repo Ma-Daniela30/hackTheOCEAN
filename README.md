@@ -1,8 +1,8 @@
 **HACK THE OCEAN**
 
-**OBJETIVO DEL PROYECTO**
+📄 **OBJETIVO DEL PROYECTO**
 
-- Realizar un sistema web con la capacidad de mostrar datos concretos acerca de los mantos acuiferos mas contaminados de México, asi a su vez 
+- Realizar un sistema web con la capacidad de mostrar datos concretos acerca de los mantos acuiferos mas contaminados de México mediante una API, asi a su vez 
 el usuario contara con la opcion de aportar y solicitar ayuda acerca de alguna zona que no sea visible dentro de los datos
 
 💻 **Instalación de tu ambiente de desarrollo**
@@ -17,7 +17,7 @@ node --version
 - Instalar la dependencia express: npm install express --save
 - Instalar la dependencia jest: npm install jest --save-dev jest
 
-**Tecnologias utilizadas**
+🚍 **Tecnologias utilizadas**
 
 - HTML
 - CSS
@@ -26,30 +26,30 @@ node --version
 - SQL
 - JSON
 
-**Desarollo**
+📓 **Desarollo**
 
-- Primer paso
+- 1️⃣ Primer paso
 
-**Levantamiento de requerimentos**
+📘 **Levantamiento de requerimentos**
 
 Se realizara la documentacion detalla de todos los requerimentos a ocupar dentro del proyecto, asi como los acuerdos entre el cliente y desarrollador(para este caso se a 
 tomado en cuenta los requisitos a la convocatoria de Hack the ocean)
 
-- Paso dos 
+-  2️⃣ Paso dos 
 
-**Diseño**
+📲 **Diseño**
 
 Se desarollara una diseño conceptual como parte del inicio del proyecto, con esto se pretende tener una imagen clara de lo que se realizara
 a continuacion puede ver el diseño preliminar en este [LINK](https://xd.adobe.com/view/4d8b0f4c-0b7a-4a5a-85ff-7a92b624ab1e-18d8/
 ).
  
-- Paso tres 
+-  3️⃣ Paso tres 
 
 **Investigacion**
 
 Se realizo la investigacion a profundidad de los datos necesarios, que podran ser consultados dentro del sistema(numero de zonas contaminadas)
  
-- Paso cuatro
+-  4️⃣ Paso cuatro
 
 **Funcionalidad del Frontend (interfaz para el usuario)**
  
@@ -60,7 +60,7 @@ Se realizo la investigacion a profundidad de los datos necesarios, que podran se
  - se puede observar una tabla con las diversas playas, mares , oceanos de mexico en ellas se encuentra la ubicacion y su nivel de contaminacion
  - el usuario al verificar que algunos datos dentro de su zona no se encuentran actualizados o desea agrear una zona podra dirigirse a la seccion de solicitar ayuda
  
- **Paso cinco**
+ - 5️⃣ Paso cinco
  
  - Funcionalidad Banckend (Servidor web en comunicacion con la base de datos)
  
