@@ -88,6 +88,9 @@ Se realizo la investigacion a profundidad de los datos necesarios, que podran se
 
 <img src="https://github.com/Ma-Daniela30/hackTheOCEAN/blob/gh-pages/imagenesApoyo/Captura%20de%20pantalla%20(2).png?raw=true" width="1000">
 
+- Como resultado podremos visualizar la pagina:
+[![HTheOcean](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/A9OZaZVcX4I)
+
 # 🚍 **Tecnologias utilizadas**
 
 - HTML
