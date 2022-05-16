@@ -93,15 +93,13 @@ Se realizo la investigacion a profundidad de los datos necesarios, que podran se
  PROYECTO ELABORADO Y DESARROLLADO PARA EL EVENTO HACK THE OCEAN de INNOVACCION
  
  
- DESARROLLADO POR:
- 
- | Maria Daniela Espinosa         | [@Ma-Daniela30      ](https://github.com/Ma-Daniela30)
- 
- | Luis Felipe Cajero             | [@luizcajero        ](https://github.com/luizcajero)
- 
- |Angelica Ariadna Espinosa       | [@AngelicaRoy       ](https://github.com/AngelicaRoy)
- 
- | Alexis Alberto Marin Rodriguez | [@alexMarinRodriguez](https://github.com/alexMarinRodriguez)
+ # Desarrolladores ✒️
+_Menciona a todos aquellos que ayudaron a desarrollar el proyecto_
+
+* **Cajero Luis Felipe** - *Documentación* -[Luis Felipe Cajero](https://github.com/luizcajero)
+* **Espinosa Roy Angelica Ariadna** - *Documentación* - [AngelicaAERoy](https://github.com/AngelicaRoy)
+* **Marin Rodriguez Alexis Alberto** - *Documentación* - [alexMarinRodriguez](https://github.com/alexMarinRodriguez)
+* **Espinosa Roy Maria Daniela** - *Lider del proyecto y Documentación* - [Ma-Daniela30](https://github.com/Ma-Daniela30)
  
  
  
