@@ -5,6 +5,9 @@
 - Realizar un sistema web con la capacidad de mostrar datos concretos acerca de los mantos acuiferos mas contaminados de México mediante una API, asi a su vez 
 el usuario contara con la opcion de aportar y solicitar ayuda acerca de alguna zona que no sea visible dentro de los datos
 
+# Documentacion Front-End
+(Requerimientos,BuyerPersonal,PublicoObjetivoUXyUI)[https://github.com/Ma-Daniela30/FrontEndHTO]
+
 💻 **Instalación de tu ambiente de desarrollo**
 
 - Antes que nada es recomendable tener una cuenta de git y github.
