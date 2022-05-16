@@ -7,51 +7,20 @@ el usuario contara con la opcion de aportar y solicitar ayuda acerca de alguna z
 
 # Documentacion Front-End
 
-[Requerimientos, Buyer Personal, Publico Objetivo, UX y UI](https://github.com/Ma-Daniela30/FrontEndHTO)
 
-# 💻 **Instalación de tu ambiente de desarrollo**
-
-- Antes que nada es recomendable tener una cuenta de git y github.
-- Tener un editor de texto para mejor entendimiento de codigo.
-- Tener instalarlo NodeJS en tu sistema Operativo.
-- Para combrobabar la instalacion de NodeJS podemos abrir la terminar y escribir el siguiente comando:
-
-> node --version
-
-- Instalar la dependencia express: `npm install express --save`
-- Instalar la dependencia jest: `npm install jest --save-dev jest`
-
-
-# 📓 **Desarollo**
-- Ejecutamos el comando `node start`
-
-
-🚍 **Tecnologias utilizadas**
-
-- HTML
-- CSS
-- JAVASCRIPT
-- EXPRESS
-- SQL
-- JSON
-- NODE
-
-📓 **Desarollo**
+📓 **Proceso para el desarrollo de la página**
 
 - 1️⃣ Primer paso
 
 📘 **Levantamiento de requerimentos**
 
 Se realizara la documentacion detalla de todos los requerimentos a ocupar dentro del proyecto, asi como los acuerdos entre el cliente y desarrollador(para este caso se a tomado en cuenta los requisitos a la convocatoria de Hack the ocean)
-[DOCUMENTACION](https://github.com/Ma-Daniela30/FrontEndHTO)
 
 -  2️⃣ Paso dos 
 
 📲 **Diseño**
 
-Se desarollara una diseño conceptual como parte del inicio del proyecto, con esto se pretende tener una imagen clara de lo que se realizara
-a continuacion puede ver el diseño preliminar en este [LINK](https://xd.adobe.com/view/4d8b0f4c-0b7a-4a5a-85ff-7a92b624ab1e-18d8/
-).
+Se desarollara una diseño conceptual como parte del inicio del proyecto, con esto se pretende tener una imagen clara de lo que se realizara.
  
 -  3️⃣ Paso tres 
 
@@ -90,6 +59,35 @@ Se realizo la investigacion a profundidad de los datos necesarios, que podran se
  Una vez llenados todos los datos el usuario enviara el formulario el cual recibira el backend, y validara que se encuentren dentro de los campos requeridos.
  Una vez que sean validados, seran almacenados dentro de la base de datos SQL, la cual a posterior sera visualizada por un administrador del sistema
  
+
+- Anexos de los documentos [Requerimientos, Buyer Personal, Publico Objetivo, UX y UI](https://github.com/Ma-Daniela30/FrontEndHTO)
+
+# 💻 **Instalación de tu ambiente de desarrollo**
+
+- Antes que nada es recomendable tener una cuenta de git y github.
+- Tener un editor de texto para mejor entendimiento de codigo.
+- Tener instalarlo NodeJS en tu sistema Operativo.
+- Para combrobabar la instalacion de NodeJS podemos abrir la terminar y escribir el siguiente comando:
+
+> node --version
+
+- Instalar la dependencia express: `npm install express --save`
+- Instalar la dependencia jest: `npm install jest --save-dev jest`
+
+
+# 📓 **Desarollo**
+- Ejecutamos el comando `node start`
+
+
+🚍 **Tecnologias utilizadas**
+
+- HTML
+- CSS
+- JAVASCRIPT
+- EXPRESS
+- SQL
+- JSON
+- NODE
  PROYECTO ELABORADO Y DESARROLLADO PARA EL EVENTO HACK THE OCEAN de INNOVACCION
  
  
