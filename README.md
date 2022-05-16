@@ -82,11 +82,11 @@ Se realizo la investigacion a profundidad de los datos necesarios, que podran se
 # 📓 **Desarollo**
 - Escribimos el comando `node start`
 
-<img src="https://github.com/Ma-Daniela30/hackTheOCEAN/blob/gh-pages/imagenesApoyo/Captura%20de%20pantalla.png?raw=true" width="500">
+<img src="https://github.com/Ma-Daniela30/hackTheOCEAN/blob/gh-pages/imagenesApoyo/Captura%20de%20pantalla.png?raw=true" width="1000">
 
 -Una vez arranque nos mostrara lo siguiente:
 
-<img src="https://github.com/Ma-Daniela30/hackTheOCEAN/blob/gh-pages/imagenesApoyo/Captura%20de%20pantalla%20(2).png?raw=true" width="500">
+<img src="https://github.com/Ma-Daniela30/hackTheOCEAN/blob/gh-pages/imagenesApoyo/Captura%20de%20pantalla%20(2).png?raw=true" width="1000">
 
 # 🚍 **Tecnologias utilizadas**
 
