@@ -88,6 +88,7 @@ Se realizo la investigacion a profundidad de los datos necesarios, que podran se
 - SQL
 - JSON
 - NODE
+
  PROYECTO ELABORADO Y DESARROLLADO PARA EL EVENTO HACK THE OCEAN de INNOVACCION
  
  
