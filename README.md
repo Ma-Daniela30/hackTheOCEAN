@@ -6,19 +6,25 @@
 el usuario contara con la opcion de aportar y solicitar ayuda acerca de alguna zona que no sea visible dentro de los datos
 
 # Documentacion Front-End
-[Requerimientos,BuyerPersonal,PublicoObjetivoUXyUI](https://github.com/Ma-Daniela30/FrontEndHTO)
 
-💻 **Instalación de tu ambiente de desarrollo**
+[Requerimientos, Buyer Personal, Publico Objetivo, UX y UI](https://github.com/Ma-Daniela30/FrontEndHTO)
+
+# 💻 **Instalación de tu ambiente de desarrollo**
 
 - Antes que nada es recomendable tener una cuenta de git y github.
 - Tener un editor de texto para mejor entendimiento de codigo.
 - Tener instalarlo NodeJS en tu sistema Operativo.
 - Para combrobabar la instalacion de NodeJS podemos abrir la terminar y escribir el siguiente comando:
 
-node --version
+> node --version
 
-- Instalar la dependencia express: npm install express --save
-- Instalar la dependencia jest: npm install jest --save-dev jest
+- Instalar la dependencia express: `npm install express --save`
+- Instalar la dependencia jest: `npm install jest --save-dev jest`
+
+
+# 📓 **Desarollo**
+- Ejecutamos el comando `node start`
+
 
 🚍 **Tecnologias utilizadas**
 
