@@ -1,4 +1,8 @@
-**HACK THE OCEAN**
+# **HACK THE OCEAN**
+
+
+<img src="https://github.com/Ma-Daniela30/FrontEndHTO/blob/main/logo.png" width="250">
+
 
 📄 **OBJETIVO DEL PROYECTO**
 
